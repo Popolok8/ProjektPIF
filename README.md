@@ -18,3 +18,11 @@ prihlasovaci jmeno-maturaktodecz
 
 Heslo je 126IT4a_
 
+endora databaze
+
+Host:	localhost
+Název databáze:	matura1730983100
+Uživatel:	matura1730983100
+Heslo:	^R90C#a+4Br%73%Z
+
+
