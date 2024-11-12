@@ -26,3 +26,18 @@ Uživatel:	matura1730983100
 Heslo:	^R90C#a+4Br%73%Z
 
 
+ftp config
+
+{
+    "name": "pxpr",
+    "host": "kocicka.endora.cz",
+    "port": 21,
+    "type": "ftp",
+    "username": "maturaktodecz",
+    "password": "126IT4a_",
+    "path": "/",
+    "autosave": true,
+    "confirm": true
+}
+
+
